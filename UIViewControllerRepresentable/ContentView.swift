@@ -16,7 +16,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("SwiftUI in ContentView")
-            UIKitVC()
+            InitialVC()
         }
     }
 }

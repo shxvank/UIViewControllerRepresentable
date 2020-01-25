@@ -18,7 +18,7 @@
 		D4C8DF9F23DC6E1800247238 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4C8DF9E23DC6E1800247238 /* Assets.xcassets */; };
 		D4C8DFA223DC6E1800247238 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4C8DFA123DC6E1800247238 /* Preview Assets.xcassets */; };
 		D4C8DFA523DC6E1800247238 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4C8DFA323DC6E1800247238 /* LaunchScreen.storyboard */; };
-		D4C8DFAD23DC701400247238 /* UIKitVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C8DFAC23DC701400247238 /* UIKitVC.swift */; };
+		D4C8DFAD23DC701400247238 /* InitialVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C8DFAC23DC701400247238 /* InitialVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +35,7 @@
 		D4C8DFA123DC6E1800247238 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D4C8DFA423DC6E1800247238 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4C8DFA623DC6E1800247238 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D4C8DFAC23DC701400247238 /* UIKitVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitVC.swift; sourceTree = "<group>"; };
+		D4C8DFAC23DC701400247238 /* InitialVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 				D4C8DFA323DC6E1800247238 /* LaunchScreen.storyboard */,
 				D4C8DFA623DC6E1800247238 /* Info.plist */,
 				D4C8DFA023DC6E1800247238 /* Preview Content */,
-				D4C8DFAC23DC701400247238 /* UIKitVC.swift */,
+				D4C8DFAC23DC701400247238 /* InitialVC.swift */,
 				D43AB43A23DC7AF000948F14 /* ViewController.swift */,
 				D43AB43C23DC7B3400948F14 /* Storyboard.storyboard */,
 				D43AB43E23DC7CAE00948F14 /* PresentedViewController.swift */,
@@ -172,7 +172,7 @@
 				D4C8DF9D23DC6E1600247238 /* ContentView.swift in Sources */,
 				D43AB44123DCB0DE00948F14 /* HostingController.swift in Sources */,
 				D43AB43F23DC7CAE00948F14 /* PresentedViewController.swift in Sources */,
-				D4C8DFAD23DC701400247238 /* UIKitVC.swift in Sources */,
+				D4C8DFAD23DC701400247238 /* InitialVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

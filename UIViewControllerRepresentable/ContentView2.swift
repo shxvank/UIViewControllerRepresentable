@@ -16,7 +16,7 @@ struct ContentView2: View {
                 Text("Present ViewController without SwiftUI")
             }
         .sheet(isPresented: $isPresented) {
-            UIKitVC()
+            InitialVC()
         }
         }
         
