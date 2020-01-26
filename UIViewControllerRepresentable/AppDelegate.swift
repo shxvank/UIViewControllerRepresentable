@@ -1,9 +1,8 @@
 //
-//  AppDelegate.swift
-//  UIViewControllerRepresentable
-//
 //  Created by Rob Sturgeon on 25/01/2020.
-//  Copyright © 2020 sturdysturge. All rights reserved.
+//
+//  Cmd+click below in Xcode to find this post and others:
+//  https://medium.com/@rob_sturgeon
 //
 
 import UIKit
